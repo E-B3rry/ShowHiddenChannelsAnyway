@@ -1,18 +1,18 @@
 /**
  * @name ShowHiddenChannelsAnyway
- * @author NotDevilBro
+ * @author NotDevilBroAnymore
  * @authorId 568506502617235466
  * @version 1.0.0.0
  * @description Displays all hidden Channels, which can't be accessed due to Role Restrictions, this won't allow you to read them (impossible)
- * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ShowHiddenChannels/
- * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Plugins/ShowHiddenChannels/ShowHiddenChannels.plugin.js
+ * @source https://github.com/E-B3rry/ShowHiddenChannelsAnyway/tree/main
+ * @updateUrl https://github.com/E-B3rry/ShowHiddenChannelsAnyway/blob/main/ShowHiddenChannelsAnyway.plugin.js
  */
 
 module.exports = (_ => {
 	const config = {
 		"info": {
 			"name": "ShowHiddenChannelsAnyway",
-			"author": "NotDevilBro",
+			"author": "NotDevilBroAnymore",
 			"version": "1.0.0.0",
 			"description": "Displays all hidden Channels, which can't be accessed due to Role Restrictions, this won't allow you to read them (impossible)"
 		}
