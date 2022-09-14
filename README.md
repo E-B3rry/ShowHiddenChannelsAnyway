@@ -1,4 +1,6 @@
 # ShowHiddenChannelsAnyway
-I do not own any of the published code, but I may update it if it doesn't work anymore.
 
-It should be your own and only choice to keep using it or not.
+### **DISCONTINUED** 
+If you're looking for a great community that lets you decide what *you* want to do with your BetterDiscord modifications, please [click here](https://github.com/Saalvage/BetterDiscordAddons).
+
+> As of the time of writing this, they already have a working alternative to the original ShowHiddenChannels plugin, a [Discord](https://discord.gg/e66JbKte2P) and a [Reddit](https://www.reddit.com/r/OpenBetterDiscord/).
